@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif; 
+}
+
+header a {
+    background-color: blue;
+    color:white;
+    text-decoration:none;
+    border-radius: 10px;
+    padding: 5px;
+}
+ 
+ header {
+     border: blue 4px solid;
+     border-radius: 10px;
+     padding: 5px;
+     margin-bottom:25px;
+ }
+
+ main {
+      text-align: center;
+    text-size: i;
+    color:blue;
+ }
+
+ footer p {
+ border: grey 1px solid;
+ padding:5px;
+ }
+  
+ nav a {
+ border:blue 4px solid;
+ margin: 20px;
+ border-radius: 10px;
+ padding: 5px;
+  text-decoration:none;
+  }
+
+  .hl {
+       border:rgb(51, 206, 248) 4px solid;
+ margin: 20px;
+ border-radius: 10px;
+ padding: 5px;
+  text-decoration:none;
+  }
+
+  .pt {
+       border:rgb(177, 109, 245) 4px solid;
+ margin: 20px;
+ border-radius: 10px;
+ padding: 5px;
+  text-decoration:none;
+  }
+  
+  .ft { border:rgb(236, 217, 47) 4px solid;
+ margin: 20px;
+ border-radius: 10px;
+ padding: 5px;
+  text-decoration:none;
+  }
+
+  .fk  { border:rgb(42, 212, 51) 4px solid;
+ margin: 20px;
+ border-radius: 10px;
+ padding: 5px;
+  text-decoration:none;
+  
